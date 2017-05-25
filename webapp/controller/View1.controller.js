@@ -10,6 +10,7 @@ sap.ui.define([
 		},
 		onDataExportPDF : function(oEvent){
 			alert("Export PDF DATA");
+			alert("Export PDF DATA");
 		}
 
 	});
